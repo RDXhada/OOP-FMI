@@ -1,0 +1,3 @@
+Top Block 1 has : [538084] coins
+Top Block 2 has : [359520] coins
+Top Block 3 has : [210840] coins
